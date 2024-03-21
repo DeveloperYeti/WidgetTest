@@ -26,7 +26,11 @@
         android:layout_marginTop="@dimen/marginLarge"
         android:textSize="@dimen/textSizeSmall"
         android:backgroundTint="@color/red"
+<<<<<<< HEAD
         android:textColor="white"
+=======
+        android:textColor="@color/white"
+>>>>>>> 5cb1b36 (Checked)
         android:gravity="center"
         android:padding="@dimen/marginMedium"
         android:layout_margin="@dimen/marginMedium"/>

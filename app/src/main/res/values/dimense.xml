@@ -4,7 +4,12 @@
     <dimen name="marginMedium">29dp</dimen>
     <dimen name="marginLarge">29dp</dimen>
     <dimen name="textSizeSmall">29sp</dimen>
+<<<<<<< HEAD
     <dimen name="textSizeMedium">29sp</dimen>
     <dimen name="textSizeLarge">29sp</dimen>
+=======
+    <dimen name="textSizeMedium">30sp</dimen>
+    <dimen name="textSizeLarge">30sp</dimen>
+>>>>>>> 5cb1b36 (Checked)
     
 </resources>
