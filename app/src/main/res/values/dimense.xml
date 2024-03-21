@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginSmall">29dp</dimen>
+    <dimen name="marginMedium">29dp</dimen>
+    <dimen name="marginLarge">29dp</dimen>
+    <dimen name="textSizeSmall">29sp</dimen>
+    <dimen name="textSizeMedium">29sp</dimen>
+    <dimen name="textSizeLarge">29sp</dimen>
+    
+</resources>
